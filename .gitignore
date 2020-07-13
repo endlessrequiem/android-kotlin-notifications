@@ -20,6 +20,6 @@ start/.gradle/buildOutputCleanup/buildOutputCleanup.lock
 start/.gradle/buildOutputCleanup/cache.properties
 start/.gradle/buildOutputCleanup/outputFiles.bin
 start/.gradle/vcs-1/gc.properties
-
+/Users/austinwhite/Downloads/android-kotlin-notifications-start/app/google-services.json
 # Project exclude paths
 /.gradle/
