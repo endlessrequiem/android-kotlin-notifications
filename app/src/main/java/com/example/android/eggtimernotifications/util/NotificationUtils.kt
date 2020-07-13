@@ -53,6 +53,7 @@ fun NotificationManager.sendNotification(messageBody: String, applicationContext
 
     // TODO: Step 2.0 add style
 
+
     // TODO: Step 2.2 add snooze action
 
     // TODO: Step 1.2 get an instance of NotificationCompat.Builder
@@ -84,3 +85,6 @@ fun NotificationManager.sendNotification(messageBody: String, applicationContext
 }
 
 // TODO: Step 1.14 Cancel all notifications
+fun NotificationManager.cancelNotifications() {
+    cancelAll()
+}
