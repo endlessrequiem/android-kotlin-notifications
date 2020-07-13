@@ -1,4 +1,4 @@
-EggTimer - Final Code 
+EggTimer
 ============================================================================
 
 Solution code for Advanced Android with Kotlin Codelab 
